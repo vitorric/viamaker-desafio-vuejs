@@ -25,6 +25,7 @@ Se você não conseguir terminar o desafio por completo, não se preocupe, iremo
 - Construa um código limpo e de fácil manutenção;
 - É permitido o uso de qualquer framework;
 - Login no sistema seria muito útil;
+- Preocupe-se com a usabilidade do sistema para o usuário final;
 - Manja muito da manipulação do CSS? Nos mostre isso!
 
 # O que será avaliado?
