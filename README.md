@@ -1,4 +1,5 @@
 
+
 # Desafio Viamaker - VueJS
 
 Muito bem vindo ao nosso desafio de VueJS! Neste desafio você deverá criar um sistema de gerenciamento de escolas.
@@ -8,26 +9,14 @@ Se você não conseguir terminar o desafio por completo, não se preocupe, iremo
 # O Projeto
 **Desafio** : Criar um sistema em VueJS que gerencie uma escola
 **Funcionalidades**: 
-1) Escola
-- Cadastrar Escola
-- Alterar Escola
-- Obter Escola
-- Listar Escola
-- Deletar Escola
+1) **Escola**: Cadastrar, Alterar, Obter, Listar, Deletar
+2) **Turma**: Cadastrar, Alterar, Obter, Listar, Deletar
+3) **Alunos**: Cadastrar, Alterar, Obter, Listar, Deletar
 
-2) Turma
-- Cadastrar  Turma
-- Alterar Turma
-- Obter Turma
-- Listar Turma
-- Deletar Turma
-
-3) Alunos
-- Cadastrar Aluno
-- Alterar Aluno
-- Obter Aluno
-- Listar Aluno
-- Deletar Aluno
+**Estrutura das Entidades**:
+- Escola - Nome, CNPJ
+- Turma - Nome
+- Alunos - Nome, Turma
 
 **OBS**: Uma escola tem N turmas, e cada turma tem N alunos.
 
